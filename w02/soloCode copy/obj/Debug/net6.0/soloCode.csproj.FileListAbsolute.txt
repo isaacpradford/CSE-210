@@ -1,0 +1,15 @@
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/bin/Debug/net6.0/soloCode
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/bin/Debug/net6.0/soloCode.deps.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/bin/Debug/net6.0/soloCode.runtimeconfig.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/bin/Debug/net6.0/soloCode.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/bin/Debug/net6.0/soloCode.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.csproj.AssemblyReference.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.AssemblyInfoInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.AssemblyInfo.cs
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.csproj.CoreCompileInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/refint/soloCode.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/soloCode.genruntimeconfig.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/soloCode/obj/Debug/net6.0/ref/soloCode.dll

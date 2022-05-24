@@ -1,0 +1,15 @@
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/bin/Debug/net6.0/tictactoe
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/bin/Debug/net6.0/tictactoe.deps.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/bin/Debug/net6.0/tictactoe.runtimeconfig.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/bin/Debug/net6.0/tictactoe.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/bin/Debug/net6.0/tictactoe.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.csproj.AssemblyReference.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfoInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.AssemblyInfo.cs
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/refint/tictactoe.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/tictactoe.genruntimeconfig.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w06/tictactoe/obj/Debug/net6.0/ref/tictactoe.dll

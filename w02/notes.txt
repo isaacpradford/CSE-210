@@ -1,0 +1,108 @@
+// See https://aka.ms/new-console-template for more information
+// Console.WriteLine("Hello, World!");
+
+// Doing math in C#
+
+// Console.Write("Enter the first number: ");
+// string first = Console.ReadLine();
+// int x = int.Parse(first);
+
+// Console.Write("Enter the second number: ");
+// string second = Console.ReadLine();
+// int y = int.Parse(second);
+
+// Console.Write("Enter the third number: ");
+// string third = Console.ReadLine();
+// int z = int.Parse(third);
+
+// int answer = (x + y) * z;
+// int answer2 = x * y + y * z;
+
+// Console.WriteLine($"Result of the specified numbers: {answer} and {answer2}");
+
+// // IF, ELSE, ELSE IF Statements in C#
+
+// Console.Write("What is your grade percentage? ");
+//             string answer = Console.ReadLine();
+//             int percent = int.Parse(answer);
+
+//             string letter = "";
+
+//             if (percent >= 90)
+//             {
+//                 letter = "A";
+//             }
+//             else if (percent >= 80)
+//             {
+//                 letter = "B";
+//             }
+//             else if (percent >= 70)
+//             {
+//                 letter = "C";
+//             }
+//             else if (percent >= 60)
+//             {
+//                 letter = "D";
+//             }
+//             else
+//             {
+//                 letter = "F";
+//             }
+
+//             Console.WriteLine($"Your grade is: {letter}");
+            
+//             if (percent >= 70)
+//             {
+//                 Console.WriteLine("You passed!");
+//             }
+//             else
+//             {
+//                 Console.WriteLine("Better luck next time!");
+//             }
+
+// C# Daily Prep 3
+
+// While loop
+// string input = "yes";
+
+// while (input == "yes")
+// {
+//     Console.Write("Do you want to continue? ");
+//     input = Console.ReadLine();
+// }
+
+// Do-While Loop
+
+// string input;
+// do
+// {
+//     Console.Write("Do you want to continue? ");
+//     input = Console.ReadLine();
+// } while (input == "yes");
+
+// For loop
+
+// for (int i = 0; i <= 20; i ++)
+// {
+//     Console.WriteLine(i);
+// }
+
+// for (int i = 2; i <= 20; i = i + 2)
+// {
+//     Console.WriteLine(i);
+// }
+
+// For each loop
+
+// foreach (string color in colors)
+// {
+//     Console.WriteLine(color);
+// }
+
+
+// Random number
+
+// Random randomGenerator = new Random();
+// int number = randomGenerator.Next(1, 11);
+
+// Console.Write(number);

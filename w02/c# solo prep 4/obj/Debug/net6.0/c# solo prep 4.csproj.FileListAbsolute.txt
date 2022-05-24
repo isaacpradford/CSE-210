@@ -1,0 +1,15 @@
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/bin/Debug/net6.0/c# solo prep 4
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/bin/Debug/net6.0/c# solo prep 4.deps.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/bin/Debug/net6.0/c# solo prep 4.runtimeconfig.json
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/bin/Debug/net6.0/c# solo prep 4.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/bin/Debug/net6.0/c# solo prep 4.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.csproj.AssemblyReference.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.AssemblyInfoInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.AssemblyInfo.cs
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.csproj.CoreCompileInputs.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/refint/c# solo prep 4.dll
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.pdb
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/c# solo prep 4.genruntimeconfig.cache
+/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w02/c# solo prep 4/obj/Debug/net6.0/ref/c# solo prep 4.dll
