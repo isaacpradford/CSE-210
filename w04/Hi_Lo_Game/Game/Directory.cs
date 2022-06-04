@@ -98,7 +98,7 @@ public class Director {
         else 
         {
             Console.WriteLine("Wrong...");
-            points = points - 75;
+            points = points - 100;
         }
 
         Console.WriteLine($"Next card was: {card2}");

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hyrum\\.nuget\\packages\\": {}
+    "/Users/isaacradford/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hyrum\\OneDrive\\Desktop\\Programing with Classes REPO\\Hi_Lo_Game\\Hi_Lo_Game.csproj",
+      "projectUniqueName": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w04/Hi_Lo_Game/Hi_Lo_Game.csproj",
       "projectName": "Hi_Lo_Game",
-      "projectPath": "C:\\Users\\hyrum\\OneDrive\\Desktop\\Programing with Classes REPO\\Hi_Lo_Game\\Hi_Lo_Game.csproj",
-      "packagesPath": "C:\\Users\\hyrum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hyrum\\OneDrive\\Desktop\\Programing with Classes REPO\\Hi_Lo_Game\\obj\\",
+      "projectPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w04/Hi_Lo_Game/Hi_Lo_Game.csproj",
+      "packagesPath": "/Users/isaacradford/.nuget/packages/",
+      "outputPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w04/Hi_Lo_Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hyrum\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/isaacradford/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
