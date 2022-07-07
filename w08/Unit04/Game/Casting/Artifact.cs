@@ -7,14 +7,14 @@ namespace Unit04.Game.Casting
             {
             }
 
-        public int GetMessage() {
-            return points;
-        }
+            public int GetMessage() {
+                return points;
+            }
 
-        public void SetMessage(int point) {
-            this.points = point;
+            public void SetMessage(int point) {
+                this.points = point;
+            }
         }
-    }
 }
     // TODO: Implement the Artifact class here
 

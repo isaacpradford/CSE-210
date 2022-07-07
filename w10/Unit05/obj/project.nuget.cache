@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+tovDdvcg2SdqgMsZXDuAANIgdzCGvvR8sTFH8gDJerBtTIa0EFYXREaLuLUYTOHJPRQYZ8GGUloXksakMVrA==",
+  "success": true,
+  "projectFilePath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w10/Unit05/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/isaacradford/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/isaacradford/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

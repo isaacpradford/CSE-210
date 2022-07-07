@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w07/hangman/hangman.csproj",
+      "projectUniqueName": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w06/hangman/hangman.csproj",
       "projectName": "hangman",
-      "projectPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w07/hangman/hangman.csproj",
+      "projectPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w06/hangman/hangman.csproj",
       "packagesPath": "/Users/isaacradford/.nuget/packages/",
-      "outputPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/w07/hangman/obj/",
+      "outputPath": "/Users/isaacradford/Desktop/Spring Semester 2022/CSE210 - Programming with Classes/CSE210 Project Files/w06/hangman/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/isaacradford/.nuget/NuGet/NuGet.Config"
